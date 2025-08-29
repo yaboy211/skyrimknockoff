@@ -1,0 +1,5 @@
+extends Node3D
+
+func _ready():
+    var village = load("res://Village.tscn").instantiate()
+    add_child(village)
