@@ -1,0 +1,5 @@
+[core]
+name="SkyrimKnockoff"
+version=1
+description="A simple Skyrim-like game"
+main_scene="res://main.tscn"
