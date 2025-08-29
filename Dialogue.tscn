@@ -1,0 +1,4 @@
+extends Control
+
+func show_dialogue(text):
+    print("NPC says: " + text)
